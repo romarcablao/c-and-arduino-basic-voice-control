@@ -1,0 +1,9 @@
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\bin\Debug\Voice Controller-Color Changer Arduino.exe.config
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\bin\Debug\Voice Controller-Color Changer Arduino.exe
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\bin\Debug\Voice Controller-Color Changer Arduino.pdb
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice Controller-Color Changer Arduino.csprojResolveAssemblyReference.cache
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice_Controller_Color_Changer_Arduino.frmMain.resources
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice_Controller_Color_Changer_Arduino.Properties.Resources.resources
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice Controller-Color Changer Arduino.csproj.GenerateResource.Cache
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice Controller-Color Changer Arduino.exe
+c:\users\romar cablao\documents\visual studio 2015\Projects\Voice Controller-Color Changer Arduino\Voice Controller-Color Changer Arduino\obj\Debug\Voice Controller-Color Changer Arduino.pdb
